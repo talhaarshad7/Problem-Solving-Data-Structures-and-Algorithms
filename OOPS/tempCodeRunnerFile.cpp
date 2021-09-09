@@ -1,0 +1,1 @@
+this->data=new int[d.capacity];
